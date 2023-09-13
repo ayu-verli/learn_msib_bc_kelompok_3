@@ -1,2 +1,2 @@
-# learn_msib_bc_kelompok_3.
+Ni Kadek ayu verlioni, ayuverlioni@gmail.com, tabanan
 Tugas Pengenalan Dasar Javascript dan Github
