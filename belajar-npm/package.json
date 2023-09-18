@@ -1,0 +1,22 @@
+{
+  "name": "belajar-npm",
+  "version": "1.0.0",
+  "description": "Belajar NodeJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ayu-verli/learn_msib_bc_kelompok_3.git"
+  },
+  "author": "ayuverli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayu-verli/learn_msib_bc_kelompok_3/issues"
+  },
+  "homepage": "https://github.com/ayu-verli/learn_msib_bc_kelompok_3#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
