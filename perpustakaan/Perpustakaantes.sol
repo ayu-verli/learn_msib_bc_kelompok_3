@@ -68,5 +68,4 @@ function testGetDataBuku() public view {
     assert(tahunHasil == 1998);
     assert(keccak256(abi.encodePacked(penulisHasil)) == keccak256(abi.encodePacked("J.K. Rowling")));
 }
-
 }
