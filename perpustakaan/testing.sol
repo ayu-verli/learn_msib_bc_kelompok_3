@@ -45,5 +45,5 @@ contract testSuite {
         Assert.equal(msg.sender, TestsAccounts.getAccount(1), "Invalid sender");
         Assert.equal(msg.value, 100, "Invalid value");
     }
-}
+} 
     
